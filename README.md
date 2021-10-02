@@ -14,4 +14,4 @@ Skills: SQL / PHP / JS / HTML / CSS
 
 <h3 align="left">................</h3>
 
-![DanielTRZ  GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielTRZ&theme=dark&show_icons=true)
+![DanielTRZ  GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielTRZ&theme=github_dark&show_icons=true)
