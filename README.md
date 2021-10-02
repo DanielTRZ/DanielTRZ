@@ -3,7 +3,7 @@
 -->
 ### Hi there 👋, My name is Daniel
 
-Skills: SQL / PHP / JS / HTML / CSS
+Skills: SQL / PHP / JS / HTML / CSS / BOOTSTRAP
 
 - 🔭 I’m currently working on  JAVA SCRIPT / HTML / CSS / PHP /  BOOTSTRAP / 
 - 🌱 I’m currently learning JAVA / VUE / JQUERY / 
