@@ -17,3 +17,4 @@ Skills: SQL / PHP / JS / HTML / CSS / BOOTSTRAP
 <h3 align="left">................</h3>
 
 ![DanielTRZ  GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielTRZ&theme=github_dark&show_icons=true)
+
