@@ -13,7 +13,6 @@ Skills: SQL / PHP / JS / HTML / CSS / BOOTSTRAP
  <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-line.svg" alt="php" width="40" height="40"/> </a>
 </p>
  
- 
 <h3 align="left">................</h3>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/DanielTRZ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://danieltrz.github.io/Portfolio/) 
