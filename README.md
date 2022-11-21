@@ -17,5 +17,5 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/DanielTRZ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://danieltrz.github.io/Portfolio/) 
 
-<h3 align="left">...................</h3>
+<h3 align="left">....................</h3>
 
