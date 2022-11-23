@@ -3,7 +3,7 @@
 -->
 
 ### Hi there 👋, My name is Daniel
-<h3 align="left">..................</h3>
+<h3 align="left">...................</h3>
 <h3 algin="left">Skills: SQL / PHP / JS / HTML / CSS / BOOTSTRAP</h3>
 
 - 🔭 I’m currently working on  JAVA SCRIPT / HTML / CSS / PHP /  BOOTSTRAP / 
