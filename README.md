@@ -4,7 +4,7 @@
 
 ### Hi there 👋, My name is Daniel
 <h3 align="left">....................</h3>
-<h3 algin="left">Skills: SQL / PHP / JS / HTML / CSS / BOOTSTRAP</h3>
+<h3 algin="left">Skills: UNREAL ENGINE / UNITY / SQL / PHP / JS / HTML / CSS / BOOTSTRAP</h3>
 
 - 🔭 I’m currently working on UNREAL ENGINE / UNITY / JAVA SCRIPT / HTML / CSS / PHP /  BOOTSTRAP 
 - 🌱 I’m currently learning JAVA / UNREAL ENGINE / JQUERY / UNITY / C# / PYTHON
