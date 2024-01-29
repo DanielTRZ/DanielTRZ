@@ -19,3 +19,4 @@
 
 <h3 align="left">....................</h3>
 
+<a href="https://dajieltrzeciński.pl" target="_blank">
