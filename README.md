@@ -2,7 +2,6 @@
 **DanielTRZ/DanielTRZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 [![committers.top badge](https://user-badge.committers.top/poland/DanielTRZ.svg)](https://user-badge.committers.top/poland/DanielTRZ)
-### Hi there 👋, My name is Daniel
 <h3 align="left">....................</h3>
 <h3 algin="left">Skills: UNREAL ENGINE / UNITY / SQL / PHP / JS / HTML / CSS / BOOTSTRAP</h3>
 
