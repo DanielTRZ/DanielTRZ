@@ -18,4 +18,4 @@
 
 <h3 align="left">....................</h3>
 
-<a href="https://danieltrzeciński.pl" target="_blank" Daniel Trzeciński>
+<https://danieltrzeciński.pl>
