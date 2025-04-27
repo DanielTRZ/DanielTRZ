@@ -3,7 +3,7 @@
 -->
 [![committers.top badge](https://user-badge.committers.top/poland/DanielTRZ.svg)](https://user-badge.committers.top/poland/DanielTRZ)
 <h3 align="left">....................</h3>
-<h3 algin="left">Skills: UNREAL ENGINE / UNITY / SQL / PHP / JS / HTML / CSS / BOOTSTRAP</h3>
+<h3 algin="left">Skills: UNREAL ENGINE / UNITY / SQL / PHP / JS / HTML / CSS / </h3>
 
 - 🔭 I’m currently working on UNREAL ENGINE / UNITY / JAVA SCRIPT / HTML / CSS / PHP /  BOOTSTRAP 
 - 🌱 I’m currently learning JAVA / UNREAL ENGINE  / UNITY / C# / PYTHON / C /C++ /
