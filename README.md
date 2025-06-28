@@ -1,7 +1,25 @@
 <!--
 **DanielTRZ/DanielTRZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<p align="center">
+  <em>We are united by passion – a passion for technology and creativity.</em>
+</p>
 
+---
+
+🎮 **Hi, I'm Daniel – a technology enthusiast and game developer driven by curiosity and imagination.**
+
+Since childhood, I've been fascinated by modern technologies. For me, daily tasks are not just work – they’re an opportunity to explore what I love.  
+I dedicate my free time to following the latest tech trends, learning new tools, and turning ideas into interactive experiences.
+
+Whether it's crafting immersive levels in Unreal Engine, designing intelligent AI systems, or bringing worlds to life with pixels and code – technology is not just my career path, it's my lifestyle.
+
+🚀 I believe that games are more than entertainment – they're powerful experiences.  
+🧠 I'm passionate about combining art, logic, and interaction into compelling gameplay.
+
+> _“The best technology feels like magic – and games are the modern spellbook.”_
+
+---
 <!-- Odznaka aktywności w Polsce -->
 [![committers.top badge](https://user-badge.committers.top/poland/DanielTRZ.svg)](https://user-badge.committers.top/poland/DanielTRZ)
 
