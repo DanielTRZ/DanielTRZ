@@ -123,7 +123,7 @@ You can find regular updates and visual insights into the development process on
 ## 🛠️ Tech Stack
 
 <p align="center">
-<table>
+<table algin="center">
   <tr>
     <td align="center">
       <a href="https://www.w3schools.com/css/" target="_blank">
