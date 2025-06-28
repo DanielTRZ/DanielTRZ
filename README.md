@@ -88,7 +88,9 @@ You can find regular updates and visual insights into the development process on
     <img src="https://img.shields.io/badge/@pixelpioneersclub-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </p>
+
 ---
+
 ## 🛠️ Tech Stack
 
 <p align="left">
