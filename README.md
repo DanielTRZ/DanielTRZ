@@ -1,6 +1,14 @@
 <!--
 **DanielTRZ/DanielTRZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+<!-- Odznaka aktywności w Polsce -->
+<p align="center">
+  <a href="https://user-badge.committers.top/poland/DanielTRZ">
+    <img src="https://user-badge.committers.top/poland/DanielTRZ.svg" alt="committers.top badge" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://github.com/DanielTRZ/Photos-/blob/main/F692B20F-4D2A-4876-A3A7-A5EC5C7BAF3E.png?raw=true" alt="Cyberpunk Vampire Game Banner" width="100%" />
 </p>
@@ -24,12 +32,7 @@ Whether it's crafting immersive levels in Unreal Engine, designing intelligent A
 > _“The best technology feels like magic – and games are the modern spellbook.”_
 
 ---
-<!-- Odznaka aktywności w Polsce -->
-<p align="center">
-  <a href="https://user-badge.committers.top/poland/DanielTRZ">
-    <img src="https://user-badge.committers.top/poland/DanielTRZ.svg" alt="committers.top badge" />
-  </a>
-</p>
+
 
 <!-- 🔠 Typing animation -->
 <p align="center">
