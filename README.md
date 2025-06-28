@@ -21,8 +21,8 @@ Whether it's crafting immersive levels in Unreal Engine, designing intelligent A
 
 ---
 <!-- Odznaka aktywności w Polsce -->
-[![committers.top badge](https://user-badge.committers.top/poland/DanielTRZ.svg)](https://user-badge.committers.top/poland/DanielTRZ)
-
+<p algin="center">[![committers.top badge](https://user-badge.committers.top/poland/DanielTRZ.svg)](https://user-badge.committers.top/poland/DanielTRZ)
+</p>
 <!-- 🔠 Typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=450&lines=Game+Developer;Unreal+%2B+Unity+Enthusiast;Pixel+Perfectionist;AI+%26+Level+Designer;Level+Art+Specialist;HTML+%2F+CSS+%2F+PHP;JavaScript+%2F+SQL" alt="Typing SVG" />
