@@ -3,7 +3,7 @@
 -->
 <!-- Odznaka aktywności w Polsce -->
 <p align="center">
-  <strong>🏆 Top Committers in Poland</strong><br>
+  <strong>🏆 Top Committers in Poland</strong><br><br>
   <a href="https://user-badge.committers.top/poland/DanielTRZ">
     <img src="https://user-badge.committers.top/poland/DanielTRZ.svg" alt="committers.top badge" />
   </a>
