@@ -110,7 +110,7 @@ Whether it's crafting immersive levels in Unreal Engine, designing intelligent A
 
 <!-- 🔘 Animowany przycisk do portfolio -->
 <p align="center">
-  <a href="https://danieltrz.github.io/Portfolio/">
+  <a href="https://danieltrzecinski.pl">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-red?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:daniel_trzecinski@onet.pl">
