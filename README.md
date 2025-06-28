@@ -103,4 +103,4 @@
 
 🌐 [danieltrzecinski.pl](https://danieltrzecinski.pl)  
 🌐 [danieltrzecinski.eu](https://danieltrzecinski.eu)  
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)alt="csharp" width="40" height="40"](https://github.com/DanielTRZ)
+(https://github.com/DanielTRZ)
