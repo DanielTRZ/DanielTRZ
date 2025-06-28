@@ -3,7 +3,7 @@
 -->
 
 
-<p>https://www.instagram.com/reel/DEQJZkQq1Oo/?igsh=c2I3aDhteWh3YWQ=</p>
+
 [![committers.top badge](https://user-badge.committers.top/poland/DanielTRZ.svg)](https://user-badge.committers.top/poland/DanielTRZ)
 <h3 align="left">....................</h3>
 <h3 algin="left">Skills: UNREAL ENGINE / UNITY / SQL / PHP / JS / HTML / CSS / </h3>
