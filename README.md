@@ -18,7 +18,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/DanielTRZ/Photos-/blob/main/F692B20F-4D2A-4876-A3A7-A5EC5C7BAF3E.png?raw=true" alt="Cyberpunk Vampire Game Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/92ac2a74-ec22-4972-ba69-12a2f02fd2a7-96E9336950D4.jpeg?raw=true" alt="passion" width="100%" />
 </p>
 
 <p align="center">
