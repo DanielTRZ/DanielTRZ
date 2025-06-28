@@ -102,5 +102,4 @@
 <br><br>
 
 🌐 [danieltrzecinski.pl](https://danieltrzecinski.pl)  
-🌐 [danieltrzecinski.eu](https://danieltrzecinski.eu)  
-(https://github.com/DanielTRZ)
+🌐 [danieltrzecinski.eu](https://danieltrzecinski.eu) 
