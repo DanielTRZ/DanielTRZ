@@ -2,6 +2,7 @@
 **DanielTRZ/DanielTRZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <!--[![Instagram Reel – podgląd](./thumb.jpg)](https://www.instagram.com/reel/DEQJZkQq1Oo/?igsh=c2I3aDhteWh3YWQ=) -->
+🎥 [Zobacz wideo na Instagramie](https://www.instagram.com/reel/DEQJZkQq1Oo/?igsh=c2I3aDhteWh3YWQ=)
 
 [![committers.top badge](https://user-badge.committers.top/poland/DanielTRZ.svg)](https://user-badge.committers.top/poland/DanielTRZ)
 <h3 align="left">....................</h3>
