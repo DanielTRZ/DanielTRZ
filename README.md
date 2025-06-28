@@ -22,6 +22,11 @@ Whether it's crafting immersive levels in Unreal Engine, designing intelligent A
 ---
 <!-- Odznaka aktywności w Polsce -->
 [![committers.top badge](https://user-badge.committers.top/poland/DanielTRZ.svg)](https://user-badge.committers.top/poland/DanielTRZ)
+<p align="center">
+  <a href="https://user-badge.committers.top/poland/DanielTRZ">
+    <img src="https://user-badge.committers.top/poland/DanielTRZ.svg" alt="committers.top badge" />
+  </a>
+</p>
 
 <!-- 🔠 Typing animation -->
 <p align="center">
