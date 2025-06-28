@@ -214,24 +214,8 @@ lll## 🛠️ Tech Stack
     </td>
     <td align="center" style="padding: 10px;">
       <a href="https://www.unrealengine.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original-wordmark.svg" alt="unrealengine" width="48" height="48" />
-      </a>
-      <br />Unreal Engine
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.unity.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original-wordmark.svg" alt="unity" width="48" height="48" />
-      </a>
-      <br />Unity
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="48" height="48" />
-      </a>
-      <br />C#
-    </td>
-  </tr>
-</table>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original-wordmark.svg" 
+          
 ---
 
 ## 🏆 GitHub Trophy Board
