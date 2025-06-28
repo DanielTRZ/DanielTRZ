@@ -8,6 +8,13 @@
     <img src="https://user-badge.committers.top/poland/DanielTRZ.svg" alt="committers.top badge" />
   </a>
 </p>
+---
+<!-- 🔠 Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=450&lines=Game+Developer;Unreal+%2B+Unity+Enthusiast;Pixel+Perfectionist;AI+%26+Level+Designer;Level+Art+Specialist;HTML+%2F+CSS+%2F+PHP;JavaScript+%2F+SQL" alt="Typing SVG" />
+</p>
+
+---
 
 <p align="center">
   <img src="https://github.com/DanielTRZ/Photos-/blob/main/F692B20F-4D2A-4876-A3A7-A5EC5C7BAF3E.png?raw=true" alt="Cyberpunk Vampire Game Banner" width="100%" />
@@ -30,14 +37,6 @@ Whether it's crafting immersive levels in Unreal Engine, designing intelligent A
 🧠 I'm passionate about combining art, logic, and interaction into compelling gameplay.
 
 > _“The best technology feels like magic – and games are the modern spellbook.”_
-
----
-
-
-<!-- 🔠 Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=450&lines=Game+Developer;Unreal+%2B+Unity+Enthusiast;Pixel+Perfectionist;AI+%26+Level+Designer;Level+Art+Specialist;HTML+%2F+CSS+%2F+PHP;JavaScript+%2F+SQL" alt="Typing SVG" />
-</p>
 
 ---
 
