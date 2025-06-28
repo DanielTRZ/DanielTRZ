@@ -77,7 +77,10 @@
 
 ## 🏆 GitHub Trophy Board
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=DanielTRZ&theme=radical&margin-w=10&margin-h=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/
+?username=DanielTRZ&theme=radical&margin-w=10&margin
+
+    -h=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -92,11 +95,12 @@
 
 <!-- 🔘 Animowany przycisk do portfolio -->
 <a href="https://danieltrz.github.io/Portfolio/">
-
+  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-red?style=for-the-badge&logo=github" />
+</a>
 </a>
 
 <br><br>
 
 🌐 [danieltrzecinski.pl](https://danieltrzecinski.pl)  
 🌐 [danieltrzecinski.eu](https://danieltrzecinski.eu)  
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/DanielTRZ)
+[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)alt="csharp" width="40" height="40"](https://github.com/DanielTRZ)
