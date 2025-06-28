@@ -122,6 +122,7 @@ You can find regular updates and visual insights into the development process on
 
 ## 🛠️ Tech Stack
 
+<p align="center">
 <table>
   <tr>
     <td align="center">
@@ -176,7 +177,7 @@ You can find regular updates and visual insights into the development process on
     </td>
   </tr>
 </table>
-
+</p>
 ---
 
 ## 🏆 GitHub Trophy Board
