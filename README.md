@@ -78,9 +78,7 @@
 ## 🏆 GitHub Trophy Board
 
 [![Trophy](https://github-profile-trophy.vercel.app/
-?username=DanielTRZ&theme=radical&margin-w=10&margin
-
-    -h=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+?username=DanielTRZ&theme=radical&margin-w=10&margin -h=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
