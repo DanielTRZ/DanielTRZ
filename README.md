@@ -34,6 +34,7 @@ Whether it's crafting immersive levels in Unreal Engine, designing intelligent A
 
 ---
 
+
 ## 🔥 WATCH THE GAME IN ACTION ON INSTAGRAM
 
 <div align="center">
@@ -46,27 +47,9 @@ Whether it's crafting immersive levels in Unreal Engine, designing intelligent A
  🎥 <span style="color:red; font-weight:bold;">INSTAGRAM GAME VIDEO</span>
 </a>
 
-</div>
-
+</div> 
 ---
 
-<p align="center">
-  <img src="https://github.com/DanielTRZ/Photos-/blob/main/IMG_1.jpeg?raw=true" alt="Cyberpunk Vampire Game Banner" width="100%" />
-</p>
-
-## 🔥 WATCH THE GAME IN ACTION ON INSTAGRAM
-
-<div align="center">
-
-<a href="https://www.instagram.com/reel/DEQJZkQq1Oo/?igsh=c2I3aDhteWh3YWQ=">
- 🎥 <span style="color:red; font-weight:bold;">INSTAGRAM GAME VIDEO</span>
-</a><br>
-
-<a href="https://www.instagram.com/reel/DEU7NIEKD6U/?igsh=eG16bzdieTAxeXRv">
- 🎥 <span style="color:red; font-weight:bold;">INSTAGRAM GAME VIDEO</span>
-</a>
-
-</div>
 ## 💻 Skills
 
 **Technologies:**  
