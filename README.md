@@ -42,7 +42,7 @@ Whether it's crafting immersive levels in Unreal Engine, designing intelligent A
 ---
 
 <p align="center">
-  <img src="https://github.com/DanielTRZ/Photos-/blob/main/IMG_1.jpeg?raw=true" alt="Cyberpunk Vampire Game Banner" width="100%" />
+  <img src="https://github.com/DanielTRZ/Photos-/blob/main/IMG_1.jpeg?raw=true" alt="Cyberpunk Vampire Game Banner" width="80%" />
 </p>
 ## 🔥 WATCH THE GAME IN ACTION ON INSTAGRAM
 
