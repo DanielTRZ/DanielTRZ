@@ -109,10 +109,14 @@ Whether it's crafting immersive levels in Unreal Engine, designing intelligent A
 ## 🌍 Links & Portfolio
 
 <!-- 🔘 Animowany przycisk do portfolio -->
-<a href="https://danieltrz.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-red?style=for-the-badge&logo=github" />
-</a>
-</a>
+<p align="center">
+  <a href="https://danieltrz.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-red?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:daniel_trzecinski@onet.pl">
+    <img src="https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 <br><br>
 
@@ -120,11 +124,4 @@ Whether it's crafting immersive levels in Unreal Engine, designing intelligent A
 🌐 [danieltrzecinski.eu](https://danieltrzecinski.eu) 
 <br><br>
 
-<p align="center">
-  <a href="https://danieltrz.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-red?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:daniel@example.com">
-    <img src="https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+
