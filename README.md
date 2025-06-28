@@ -84,6 +84,7 @@ The next stages of the project will involve:
 
 📸 **Follow the Progress:**  
 You can find regular updates and visual insights into the development process on my **Instagram**:
+
 ---
 <p align="left">
   <a href="https://www.instagram.com/pixelpioneersclub/" target="_blank">
