@@ -18,7 +18,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/92ac2a74-ec22-4972-ba69-12a2f02fd2a7-96E9336950D4.jpeg?raw=true" alt="passion" width="100%" />
+  <img src="https://github.com/user-attachments/assets/70E90907-72D2-407D-8BD7-96E9336950D4.jpeg?raw=true" alt="passion" width="100%" />
 </p>
 
 <p align="center">
