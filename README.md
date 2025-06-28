@@ -81,11 +81,11 @@ The next stages of the project will involve:
 
 - ⚔️ Programming a robust **combat system**
 - 🤖 Prototyping **enemy AI behaviors** using Blueprints
-
 📸 **Follow the Progress:**  
 You can find regular updates and visual insights into the development process on my **Instagram**:
 
 ---
+
 <p align="left">
   <a href="https://www.instagram.com/pixelpioneersclub/" target="_blank">
     <img src="https://img.shields.io/badge/@pixelpioneersclub-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
