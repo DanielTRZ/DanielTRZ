@@ -119,4 +119,12 @@ Whether it's crafting immersive levels in Unreal Engine, designing intelligent A
 🌐 [danieltrzecinski.pl](https://danieltrzecinski.pl)  
 🌐 [danieltrzecinski.eu](https://danieltrzecinski.eu) 
 <br><br>
-![snake gif](https://github.com/DanielTRZ/DanielTRZ/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <a href="https://danieltrz.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-red?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:daniel@example.com">
+    <img src="https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
