@@ -8,7 +8,13 @@
     <img src="https://user-badge.committers.top/poland/DanielTRZ.svg" alt="committers.top badge" />
   </a>
 </p>
-
+<!-- Odznaka aktywności w Polsce -->
+<p align="center">
+  <strong>🏆 Top Committers in Poland</strong><br>
+  <a href="https://user-badge.committers.top/poland/DanielTRZ">
+    <img src="https://user-badge.committers.top/poland/DanielTRZ.svg" alt="committers.top badge" />
+  </a>
+</p>
 ---
 <!-- 🔠 Typing animation -->
 <p align="center">
