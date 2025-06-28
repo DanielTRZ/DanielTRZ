@@ -62,6 +62,34 @@ Whether it's crafting immersive levels in Unreal Engine, designing intelligent A
 
 ---
 
+## 🚀 Game Development Progress
+
+I'm currently developing an original **roguelike game**, set in a unique **cyberpunk universe**, where players step into the role of a vampire hunter.
+
+My current efforts are focused on several key areas:
+
+- 🎮 **Comprehensive Level Design and Art**  
+  I'm actively working on both level design and level art, covering the entire process from initial concept to final implementation within **Unreal Engine 5**.
+
+- 🧱 **Building a Vertical Slice in Unreal Engine 5**  
+  In parallel, I'm constructing a vertical slice of the game to showcase core mechanics, the artistic style, and the overall atmosphere of the project.
+
+- 🌌 **Exploring Advanced Shaders and Niagara FX**  
+  I'm expanding my knowledge and skills in creating immersive visual effects and sophisticated materials, utilizing the **Niagara system** and complex shaders.
+
+The next stages of the project will involve:
+
+- ⚔️ Programming a robust **combat system**
+- 🤖 Prototyping **enemy AI behaviors** using Blueprints
+
+📸 **Follow the Progress:**  
+You can find regular updates and visual insights into the development process on my **Instagram**:
+---
+<p align="left">
+  <a href="https://www.instagram.com/pixelpioneersclub/" target="_blank">
+    <img src="https://img.shields.io/badge/@pixelpioneersclub-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</p>
 ## 🛠️ Tech Stack
 
 <p align="left">
