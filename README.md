@@ -5,13 +5,6 @@
 🎥 [INSTAGRAM GAME VIDEO](https://www.instagram.com/reel/DEQJZkQq1Oo/?igsh=c2I3aDhteWh3YWQ=)<br>
 🎥 [INSTAGRAM GAME VIDEO](https://www.instagram.com/reel/DEU7NIEKD6U/?igsh=eG16bzdieTAxeXRv)
 
-<a href="https://www.instagram.com/reel/DEQJZkQq1Oo/?igsh=c2I3aDhteWh3YWQ=">
-  🎥 <span style="color:red; ">INSTAGRAM GAME VIDEO</span>
-</a><br>
-
-<a href="https://www.instagram.com/reel/DEU7NIEKD6U/?igsh=eG16bzdieTAxeXRv">
-  🎥 <span style="color:red; ">INSTAGRAM GAME VIDEO</span>
-</a>
 
 [![committers.top badge](https://user-badge.committers.top/poland/DanielTRZ.svg)](https://user-badge.committers.top/poland/DanielTRZ)
 <h3 align="left">....................</h3>
