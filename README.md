@@ -8,6 +8,7 @@
     <img src="https://user-badge.committers.top/poland/DanielTRZ.svg" alt="committers.top badge" />
   </a>
 </p>
+
 ---
 <!-- 🔠 Typing animation -->
 <p align="center">
