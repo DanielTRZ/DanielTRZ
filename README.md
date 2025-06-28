@@ -82,6 +82,13 @@ Whether it's crafting immersive levels in Unreal Engine, designing intelligent A
 
 ---
 
+<p align="center">
+  <img src="https://github.com/DanielTRZ/Photos-/blob/main/F692B20F-4D2A-4876-A3A7-A5EC5C7BAF3E.png?raw=true" alt="Cyberpunk Vampire Game Banner" width="48%" style="display: inline-block; margin: 0 1%;" />
+  <img src="https://github.com/DanielTRZ/Photos-/edit/main/524DD5E7-6F45-497B-89AE-D20C0757ED07.png?raw=true" alt="Cyberpunk Vampire Game Banner"" width="48%" style="display: inline-block; margin: 0 1%;" />
+</p>
+
+
+
 ## 🚀 Game Development Progress
 
 I'm currently developing an original **roguelike game**, set in a unique **cyberpunk universe**, where players step into the role of a vampire hunter.
