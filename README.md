@@ -155,6 +155,7 @@ You can find regular updates and visual insights into the development process on
   </a>
 </p>
 <br><br>
+
 🌐 [danieltrzecinski.pl](https://danieltrzecinski.pl)  
 🌐 [danieltrzecinski.eu](https://danieltrzecinski.eu) 
 <br><br>
