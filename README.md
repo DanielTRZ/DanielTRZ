@@ -1,13 +1,6 @@
 <!--
 **DanielTRZ/DanielTRZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-<!-- Odznaka aktywności w Polsce -->
-<p align="center">
-  <a href="https://user-badge.committers.top/poland/DanielTRZ">
-    <img src="https://user-badge.committers.top/poland/DanielTRZ.svg" alt="committers.top badge" />
-  </a>
-</p>
 <!-- Odznaka aktywności w Polsce -->
 <p align="center">
   <strong>🏆 Top Committers in Poland</strong><br>
