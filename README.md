@@ -5,6 +5,11 @@
   <img src="https://github.com/DanielTRZ/Photos-/blob/main/F692B20F-4D2A-4876-A3A7-A5EC5C7BAF3E.png?raw=true" alt="Cyberpunk Vampire Game Banner" width="100%" />
 </p>
 
+
+🎬 [Watch short gameplay video](https://github.com/DanielTRZ/Photos-/blob/main/a20e826b493645008b12cd33a2558616.mp4?raw=true)
+
+
+a20e826b493645008b12cd33a2558616.mp4
 <p align="center">
   <em>We are united by passion – a passion for technology and creativity.</em>
 </p>
