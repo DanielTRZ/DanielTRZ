@@ -87,7 +87,9 @@ Whether it's crafting immersive levels in Unreal Engine, designing intelligent A
 🌐 IP Addressing & Subnetting (IPv4/IPv6, static & dynamic addressing)<br>
 
 
-
+<p align="center">
+  <img src="https://github.com/DanielTRZ/Photos-/blob/main/IMG_0400.jpeg?raw=true" alt="passion" width="80%" />
+</p>
 ---
 
 ## 🧠 About Me
