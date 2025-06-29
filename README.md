@@ -82,6 +82,10 @@ Whether it's crafting immersive levels in Unreal Engine, designing intelligent A
 📡 Configuration of WiFi Access Points and Routers<br>
 📶 IoT Systems Development & Configuration<br>
 🔧 Setup and integration of IoT devices (smart sensors, controllers, etc.)<br>
+🧰 Network Diagnostic Tools (ping, tracert, ipconfig/ifconfig, netstat, nmap, Wireshark)<br>
+🔐 Basic Network Security (firewalls, NAT, DHCP configuration, IoT hardening)<br>
+🌐 IP Addressing & Subnetting (IPv4/IPv6, static & dynamic addressing)<br>
+
 
 
 ---
