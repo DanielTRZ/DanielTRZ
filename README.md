@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/DanielTRZ/Photos-/blob/main/70E90907-72D2-407D-8BD7-96E9336950D4.jpeg?raw=true" alt="passion" width="80%" />
+  <img src="https://github.com/DanielTRZ/Photos-/blob/main/IMG_0400.jpeg?raw=true" alt="passion" width="80%" />
 </p>
 
 <p align="center">
