@@ -28,7 +28,7 @@
 
 ---
 
-🎮 **Hi, I'm Daniel – a technology enthusiast and game developer driven by curiosity and imagination.**
+🎮 ** Hi, I'm Daniel - a new technology enthusiast driven by curiosity and imagination..**
 
 Since childhood, I've been fascinated by modern technologies. For me, daily tasks are not just work – they’re an opportunity to explore what I love.  
 I dedicate my free time to following the latest tech trends, learning new tools, and turning ideas into interactive experiences.
