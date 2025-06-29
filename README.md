@@ -88,7 +88,7 @@ Whether it's crafting immersive levels in Unreal Engine, designing intelligent A
 
 
 <p align="center">
-  <img src="https://github.com/DanielTRZ/Photos-/blob/main/IMG_0400.jpeg?raw=true" alt="passion" width="80%" />
+  <img src="https://github.com/DanielTRZ/Photos-/blob/main/4BC2CD8B-DCCB-480C-90C9-2145EF650B53.png?raw=true" alt="passion" width="80%" />
 </p>
 ---
 
