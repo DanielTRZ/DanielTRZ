@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <em>We are united by passion – a passion for technology and creativity.</em>
+  <em>We are united by passion – passion for IT.</em>
 </p>
 
 ---
