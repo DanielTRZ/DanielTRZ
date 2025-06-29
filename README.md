@@ -74,14 +74,14 @@ Whether it's crafting immersive levels in Unreal Engine, designing intelligent A
 
 **Other Skills:**  
 
-🛠️ System Administration (Windows & Linux)
-🖥️ PC Troubleshooting & Maintenance
-📁 OS Management & Configuration
-🌐 Network Setup (wired & wireless, router and WiFi configuration)
-🔌 Physical Network Installation (cable routing, RJ-45 crimping)
-📡 Configuration of WiFi Access Points and Routers
-📶 IoT Systems Development & Configuration
-🔧 Setup and integration of IoT devices (smart sensors, controllers, etc.)
+🛠️ System Administration (Windows & Linux)<br>
+🖥️ PC Troubleshooting & Maintenance<br>
+📁 OS Management & Configuration<br>
+🌐 Network Setup (wired & wireless, router and WiFi configuration)<br>
+🔌 Physical Network Installation (cable routing, RJ-45 crimping)<br>
+📡 Configuration of WiFi Access Points and Routers<br>
+📶 IoT Systems Development & Configuration<br>
+🔧 Setup and integration of IoT devices (smart sensors, controllers, etc.)<br>
 
 
 ---
