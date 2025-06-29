@@ -72,10 +72,17 @@ Whether it's crafting immersive levels in Unreal Engine, designing intelligent A
 **Currently learning:**  
 ☕ Java / 🐍 Python / C / C++ / C# / Unreal Blueprints
 
-**Other Skills:**
+**Other Skills:**  
+
 🛠️ System Administration (Windows & Linux)
 🖥️ PC Troubleshooting & Maintenance
-📁 Experience with managing and configuring operating systems
+📁 OS Management & Configuration
+🌐 Network Setup (wired & wireless, router and WiFi configuration)
+🔌 Physical Network Installation (cable routing, RJ-45 crimping)
+📡 Configuration of WiFi Access Points and Routers
+📶 IoT Systems Development & Configuration
+🔧 Setup and integration of IoT devices (smart sensors, controllers, etc.)
+
 
 ---
 
