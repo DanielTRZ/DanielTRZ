@@ -208,15 +208,15 @@ I'm the founder of **PixelPioneersClub** — a game development organization foc
 
 <br/>
 
-Check out our work and follow us on Instagram:  
+Check out our work and follow us on Instagram:<br/>
 <a href="https://www.instagram.com/pixelpioneersclub" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/@pixelpioneersclub-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
 </a>
 
 <br/><br/>
 
-Explore our GitHub org:  
-<a href="https://github.com/pixelpioneersclub" target="_blank" rel="noopener noreferrer">
+Explore our GitHub org:<br/>
+<a href="https://github.com/pixelpioneersclub" target="_blank" rel="noopener noreferrer" style="font-weight:bold; font-size:1.1em;">
   🚀 PixelPioneersClub on GitHub
 </a>
 
