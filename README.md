@@ -17,7 +17,7 @@
 </p>
 ---
 ---
-
+<!-- 🔠 Typing animation -->
 ## 🕹️ My Organization — PixelPioneersClub
 
 I'm the founder of **PixelPioneersClub** — a game development organization focused on indie games and creative projects.
@@ -38,6 +38,16 @@ Explore our GitHub org: [https://github.com/pixelpioneersclub](https://github.co
 
 ---
 
+<!-- 🔠 Typing animation -->
+## 🕹️ My Organization — PixelPioneersClub
+
+I'm the founder of **PixelPioneersClub** — a game development organization focused on indie games and creative projects.
+
+Check out our work and follow us on Instagram:  
+[![Instagram Badge](https://img.shields.io/badge/@pixelpioneersclub-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pixelpioneersclub)
+
+Explore our GitHub org: [https://github.com/pixelpioneersclub](https://github.com/pixelpioneersclub)
+---
 🎮 ** Hi, I'm Daniel - a new technology enthusiast driven by curiosity and imagination..**
 
 Since childhood, I've been fascinated by modern technologies. For me, daily tasks are not just work – they’re an opportunity to explore what I love.  
