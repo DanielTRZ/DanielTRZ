@@ -254,7 +254,8 @@ Explore our GitHub org:<br/>
 <br><br>
 
 🌐 [danieltrzecinski.pl](https://danieltrzecinski.pl)  
-🌐 [danieltrzecinski.eu](https://danieltrzecinski.eu) <br>
+🌐 [danieltrzecinski.eu](https://danieltrzecinski.eu)
+<br>
 <a href="https://github.com/pixelpioneersclub">
   <img src="https://img.shields.io/badge/PixelPioneersClub-GameDev-blue?style=for-the-badge&logo=github" alt="PixelPioneersClub GitHub" />
 </a>
