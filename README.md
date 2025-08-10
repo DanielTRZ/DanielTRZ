@@ -209,15 +209,16 @@ I'm the founder of **PixelPioneersClub** — a game development organization foc
 <br/>
 
 Check out our work and follow us on Instagram:<br/>
-<a href="https://www.instagram.com/pixelpioneersclub" target="_blank" rel="noopener noreferrer">
+<a href="https://www.instagram.com/pixelpioneersclub" target="_blank" rel="noopener noreferrer" style="display: inline-block; text-align: center; width: fit-content; margin: 0 auto;">
   <img src="https://img.shields.io/badge/@pixelpioneersclub-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
 </a>
 
 <br/><br/>
 
 Explore our GitHub org:<br/>
-<a href="https://github.com/pixelpioneersclub" target="_blank" rel="noopener noreferrer" style="font-weight:bold; font-size:1.1em;">
-  🚀 PixelPioneersClub on GitHub
+<a href="https://github.com/pixelpioneersclub" target="_blank" rel="noopener noreferrer" style="font-weight:bold; font-size:1.1em; display: inline-flex; align-items: center; gap: 8px;">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="24" height="24" />
+  PixelPioneersClub on GitHub
 </a>
 
 </p>
