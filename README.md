@@ -26,17 +26,7 @@
   <em>We are united by passion – passion for IT.</em>
 </p>
 
----
 
-<!-- 🔠 Typing animation -->
-## 🕹️ My Organization — PixelPioneersClub
-
-I'm the founder of **PixelPioneersClub** — a game development organization focused on indie games and creative projects.
-
-Check out our work and follow us on Instagram:  
-[![Instagram Badge](https://img.shields.io/badge/@pixelpioneersclub-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pixelpioneersclub)
-
-Explore our GitHub org: [https://github.com/pixelpioneersclub](https://github.com/pixelpioneersclub)
 ---
 🎮 ** Hi, I'm Daniel - a new technology enthusiast driven by curiosity and imagination..**
 
@@ -209,6 +199,17 @@ You can find regular updates and visual insights into the development process on
 
 
           
+---
+
+<!-- 🔠 Typing animation -->
+## 🕹️ My Organization — PixelPioneersClub
+
+I'm the founder of **PixelPioneersClub** — a game development organization focused on indie games and creative projects.
+
+Check out our work and follow us on Instagram:  
+[![Instagram Badge](https://img.shields.io/badge/@pixelpioneersclub-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pixelpioneersclub)
+
+Explore our GitHub org: [https://github.com/pixelpioneersclub](https://github.com/pixelpioneersclub)
 ---
 
 ## 🏆 GitHub Trophy Board
