@@ -16,17 +16,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1000&color=F70000&center=true&vCenter=true&width=450&lines=Game+Developer;Unreal+%2B+Unity+Enthusiast;Pixel+Perfectionist;AI+%26+Level+Designer;Level+Art+Specialist;HTML+%2F+CSS+%2F+JavaScript;PHP+%2F+SQL" alt="Typing SVG" />
 </p>
 ---
----
-<!-- 🔠 Typing animation -->
-## 🕹️ My Organization — PixelPioneersClub
 
-I'm the founder of **PixelPioneersClub** — a game development organization focused on indie games and creative projects.
-
-Check out our work and follow us on Instagram:  
-[![Instagram Badge](https://img.shields.io/badge/@pixelpioneersclub-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pixelpioneersclub)
-
-Explore our GitHub org: [https://github.com/pixelpioneersclub](https://github.com/pixelpioneersclub)
----
 
 <p align="center">
   <img src="https://github.com/DanielTRZ/Photos-/blob/main/IMG_0400.jpeg?raw=true" alt="passion" width="80%" />
