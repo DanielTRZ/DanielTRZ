@@ -200,16 +200,28 @@ You can find regular updates and visual insights into the development process on
 
           
 ---
-
-<!-- 🔠 organization -->
 ## 🕹️ My Organization — PixelPioneersClub
+
+<p align="center">
 
 I'm the founder of **PixelPioneersClub** — a game development organization focused on indie games and creative projects.
 
-Check out our work and follow us on Instagram:  
-<p align="center">[![Instagram Badge](https://img.shields.io/badge/@pixelpioneersclub-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pixelpioneersclub)
+<br/>
 
-Explore our GitHub org: [https://github.com/pixelpioneersclub](https://github.com/pixelpioneersclub)
+Check out our work and follow us on Instagram:  
+<a href="https://www.instagram.com/pixelpioneersclub" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/@pixelpioneersclub-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
+</a>
+
+<br/><br/>
+
+Explore our GitHub org:  
+<a href="https://github.com/pixelpioneersclub" target="_blank" rel="noopener noreferrer">
+  🚀 PixelPioneersClub on GitHub
+</a>
+
+</p>
+
 ---
 
 ## 🏆 GitHub Trophy Board
