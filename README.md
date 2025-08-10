@@ -217,7 +217,7 @@ Check out our work and follow us on Instagram:<br/><br><p align="center">
 
 Explore our GitHub org:<br/>
 <a href="https://github.com/pixelpioneersclub" target="_blank" rel="noopener noreferrer" style="font-weight:bold; font-size:1.1em; display: inline-flex; align-items: center; gap: 8px;">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="24" height="24" />
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="24" height="24" /<br>
   PixelPioneersClub on GitHub
 </a>
 
