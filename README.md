@@ -16,7 +16,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1000&color=F70000&center=true&vCenter=true&width=450&lines=Game+Developer;Unreal+%2B+Unity+Enthusiast;Pixel+Perfectionist;AI+%26+Level+Designer;Level+Art+Specialist;HTML+%2F+CSS+%2F+JavaScript;PHP+%2F+SQL" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Game+Developer;Unreal+%2B+Unity+Enthusiast;Pixel+Perfectionist;AI+%26+Level+Designer;Level+Art+Specialist;HTML+%2F+CSS+%2F+JavaScript;PHP+%2F+SQL;Network+Specialist;Computer+Hardware+%26+Repair;IT+Troubleshooting" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Network+Specialist;Computer+Hardware+%26+Repair;IT+Troubleshooting;Game+Developer;Unreal+%2B+Unity+Enthusiast;Pixel+Perfectionist;AI+%26+Level+Designer;Level+Art+Specialist;HTML+%2F+CSS+%2F+JavaScript;PHP+%2F+SQL" alt="Typing SVG" />
 </p>
 ---
 
