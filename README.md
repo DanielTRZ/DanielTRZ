@@ -105,6 +105,10 @@ Whether it's crafting immersive levels in Unreal Engine, designing intelligent A
   <img src="https://github.com/DanielTRZ/Photos-/blob/main/524DD5E7-6F45-497B-89AE-D20C0757ED07.png?raw=true" alt="Cyberpunk Vampire Game Banner" width="48%" style="display: inline-block; margin: 0 1%;" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/DanielTRZ/Photos-/blob/main/IMG_0648.gif?raw=true" alt="Cyberpunk Vampire Game Banner" width="48%" style="display: inline-block; margin: 0 1%;" />
+  <img src="https://github.com/DanielTRZ/Photos-/blob/main/IMG_0649.gif?raw=true" alt="Cyberpunk Vampire Game Banner" width="48%" style="display: inline-block; margin: 0 1%;" />
+</p>
 
 
 
