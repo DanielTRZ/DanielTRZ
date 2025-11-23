@@ -207,7 +207,9 @@ You can find regular updates and visual insights into the development process on
 ---
 
 
-<center><a href="https://buycoffee.to/pixelpioneersclub" target="_blank"><img src="https://buycoffee.to/static/img/share/share-button-dark.png" style="width: 180px; height: 43px" alt="Postaw mi kawę na buycoffee.to"></a>
+<center><a href="https://buycoffee.to/pixelpioneersclub" target="_blank"><img src="https://buycoffee.to/static/img/share/share-button-dark.png" style="width: 180px; height: 56px" alt="Postaw mi kawę na buycoffee.to"></a></center>
+
+  
 ---
 
 
