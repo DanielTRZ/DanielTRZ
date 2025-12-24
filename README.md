@@ -209,12 +209,6 @@ You can find regular updates and visual insights into the development process on
 Was code from one of the repos helpful?<br>
 Coffee is always appreciated ☕<br>
 👉 Buy Me a Coffee:<br>
-<p align="center">
-  <a href="https://buycoffee.to/pixelpioneersclub" target="_blank">
-    <img src="https://buycoffee.to/static/img/share/share-button-dark.png" width="194" height="63" alt="Postaw mi kawę na buycoffee.to">
-  </a>
-</p>
-
 <table align="center" style="margin: 0 auto;">
   <tr>
     <td align="center">
@@ -233,7 +227,13 @@ Coffee is always appreciated ☕<br>
       </a>
     </td>
   </tr>
-</table>
+</table><br>
+
+<p align="center">
+  <a href="https://buycoffee.to/pixelpioneersclub" target="_blank">
+    <img src="https://buycoffee.to/static/img/share/share-button-dark.png" width="194" height="63" alt="Postaw mi kawę na buycoffee.to">
+  </a>
+</p>
 ---
 
 
