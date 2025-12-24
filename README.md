@@ -214,25 +214,19 @@ Coffee is always appreciated ☕<br>
     <img src="https://buycoffee.to/static/img/share/share-button-dark.png" width="194" height="63" alt="Postaw mi kawę na buycoffee.to">
   </a>
 </p>
-
 <p align="center">
   <strong>Postaw kawę za:</strong>
 </p>
 
 <p align="center">
-  <a href="https://buycoffee.to/pixelpioneersclub?coffeeSize=small" target="_blank" title="6 zł">
-    <img src="https://buycoffee.to/static/img/icons/coffee-small-dark.svg" width="40" alt="6 zł">
-    <br>6 zł
+  <a href="https://buycoffee.to/pixelpioneersclub?coffeeSize=small" target="_blank" title="6 zł" style="display: inline-block; text-align: center; margin: 0 8px;">
+    <img src="https://buycoffee.to/static/img/icons/coffee-small-dark.svg" width="40" alt="6 zł"><br>6 zł
   </a>
-  &nbsp;&nbsp;
-  <a href="https://buycoffee.to/pixelpioneersclub?coffeeSize=medium" target="_blank" title="8 zł">
-    <img src="https://buycoffee.to/static/img/icons/coffee-medium-dark.svg" width="40" alt="8 zł">
-    <br>8 zł
+  <a href="https://buycoffee.to/pixelpioneersclub?coffeeSize=medium" target="_blank" title="8 zł" style="display: inline-block; text-align: center; margin: 0 8px;">
+    <img src="https://buycoffee.to/static/img/icons/coffee-medium-dark.svg" width="40" alt="8 zł"><br>8 zł
   </a>
-  &nbsp;&nbsp;
-  <a href="https://buycoffee.to/pixelpioneersclub?coffeeSize=large" target="_blank" title="15 zł">
-    <img src="https://buycoffee.to/static/img/icons/coffee-large-dark.svg" width="40" alt="15 zł">
-    <br>15 zł
+  <a href="https://buycoffee.to/pixelpioneersclub?coffeeSize=large" target="_blank" title="15 zł" style="display: inline-block; text-align: center; margin: 0 8px;">
+    <img src="https://buycoffee.to/static/img/icons/coffee-large-dark.svg" width="40" alt="15 zł"><br>15 zł
   </a>
 </p>
   
