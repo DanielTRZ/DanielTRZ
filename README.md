@@ -214,10 +214,6 @@ Coffee is always appreciated ☕<br>
     <img src="https://buycoffee.to/static/img/share/share-button-dark.png" width="194" height="63" alt="Postaw mi kawę na buycoffee.to">
   </a>
 </p>
-<p align="center">
-  <strong>Postaw kawę za:</strong>
-</p>
-<p align="center"><strong>Postaw kawę za:</strong></p>
 
 <table align="center" style="margin: 0 auto;">
   <tr>
