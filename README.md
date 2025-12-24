@@ -209,32 +209,7 @@ You can find regular updates and visual insights into the development process on
 Was code from one of the repos helpful?<br>
 Coffee is always appreciated ☕<br>
 👉 Buy Me a Coffee:<br>
-<p align="center"> <a href="https://buycoffee.to/pixelpioneersclub" target="_blank"><img src="https://buycoffee.to/static/img/share/share-button-dark.png" style="width: 180px; height: 60px" alt="Postaw mi kawę na buycoffee.to"></a></p>
-
-<p align="center">
-  <a href="https://buycoffee.to/pixelpioneersclub" target="_blank">
-    <img 
-      src="https://buycoffee.to/static/img/share/share-button-dark.png"
-      style="
-        width: 180px;
-        height: 60px;
-        transition: 0.3s;
-      "
-      onmouseover="this.style.filter='brightness(1.2)'"
-      onmouseout="this.style.filter='brightness(1)'"
-      alt="Postaw mi kawę">
-  </a>
-</p>
-
-
-<img 
-  src="https://buycoffee.to/static/img/share/share-button-dark.png"
-  style="
-    width: 180px;
-    height: 60px;
-    filter: drop-shadow(0 0 8px #00ff9c);
-  "
->
+<p align="center"> <a href="https://buycoffee.to/pixelpioneersclub" target="_blank"><img src="https://buycoffee.to/static/img/share/share-button-dark.png" style="width: 180px; height: 60px style=border-radius: 6px; "alt="Postaw mi kawę na buycoffee.to"></a></p>
   
 ---
 
