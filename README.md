@@ -215,7 +215,26 @@ Coffee is always appreciated ☕<br>
   </a>
 </p>
 
-<p align="center"><div style="width: 100%; max-width: 300px; font-family: Arial, sans-serif;"> <div style=" box-sizing: border-box; background-color: #FFFFFF; padding: 8px; border-radius: 16px; box-shadow: 0 0 rgba(0,0,0,0), 0 0 rgba(0,0,0,0), 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -4px rgba(0, 0, 0, 0.1); width: 100%; background-color: #1E3932; color: #FFFFFF; text-align: center; " > <h3 style="font-size: 12px; font-weight: 600; line-height: 1.5; margin: 0;"> Postaw kawę za: </h3> </div> <div style="display: flex; gap: 8px; margin-top: 12px; justify-content: center;"> <a href="https://buycoffee.to/pixelpioneersclub?coffeeSize=small" style=" display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 8px; border-radius: 16px; box-shadow: 0 0 rgba(0,0,0,0), 0 0 rgba(0,0,0,0), 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -4px rgba(0, 0, 0, 0.1); width: 100%; text-align: center; background-color: #1E3932; color: #FFFFFF; text-decoration: none; " target="_blank" title="Postaw kawę za: 6 zł" > <img src="https://buycoffee.to/static/img/icons/coffee-small-dark.svg" alt="small coffee icon" style="width: 24px; height: 24px;" /> <span style="font-size: 12px; font-weight: 700; margin-top: 8px; line-height: 1.5;"> 6 zł </span> </a> <a href="https://buycoffee.to/pixelpioneersclub?coffeeSize=medium" style=" display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 8px; border-radius: 16px; box-shadow: 0 0 rgba(0,0,0,0), 0 0 rgba(0,0,0,0), 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -4px rgba(0, 0, 0, 0.1); width: 100%; text-align: center; background-color: #1E3932; color: #FFFFFF; text-decoration: none; " target="_blank" title="Postaw kawę za: 8 zł" > <img src="https://buycoffee.to/static/img/icons/coffee-medium-dark.svg" alt="medium coffee icon" style="width: 24px; height: 24px;" /> <span style="font-size: 12px; font-weight: 700; margin-top: 8px; line-height: 1.5;"> 8 zł </span> </a> <a href="https://buycoffee.to/pixelpioneersclub?coffeeSize=large" style=" display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 8px; border-radius: 16px; box-shadow: 0 0 rgba(0,0,0,0), 0 0 rgba(0,0,0,0), 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -4px rgba(0, 0, 0, 0.1); width: 100%; text-align: center; background-color: #1E3932; color: #FFFFFF; text-decoration: none; " target="_blank" title="Postaw kawę za: 15 zł" > <img src="https://buycoffee.to/static/img/icons/coffee-large-dark.svg" alt="large coffee icon" style="width: 24px; height: 24px;" /> <span style="font-size: 12px; font-weight: 700; margin-top: 8px; line-height: 1.5;"> 15 zł </span> </a> </div> </div></p>
+<p align="center">
+  <strong>Postaw kawę za:</strong>
+</p>
+
+<p align="center">
+  <a href="https://buycoffee.to/pixelpioneersclub?coffeeSize=small" target="_blank" title="6 zł">
+    <img src="https://buycoffee.to/static/img/icons/coffee-small-dark.svg" width="40" alt="6 zł">
+    <br>6 zł
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://buycoffee.to/pixelpioneersclub?coffeeSize=medium" target="_blank" title="8 zł">
+    <img src="https://buycoffee.to/static/img/icons/coffee-medium-dark.svg" width="40" alt="8 zł">
+    <br>8 zł
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://buycoffee.to/pixelpioneersclub?coffeeSize=large" target="_blank" title="15 zł">
+    <img src="https://buycoffee.to/static/img/icons/coffee-large-dark.svg" width="40" alt="15 zł">
+    <br>15 zł
+  </a>
+</p>
   
 ---
 
