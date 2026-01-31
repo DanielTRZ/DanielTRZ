@@ -99,6 +99,11 @@ Whether it's crafting immersive levels in Unreal Engine, designing intelligent A
 - 🌱 Constantly learning and experimenting with new tools and languages  
 - 🎨 Passionate about game design, level art, scripting and AI systems  
 - 🧩 Building interactive worlds after hours — one pixel at a time
+- 🎨 **CSS Art**
+I love creating graphics and mini projects using pure HTML and CSS.  
+Check out my work and inspirations on CodePen:
+
+[🔗 See my CSS Art on CodePen](https://codepen.io/DanielTRZ)
 
 ---
 <p align="center">
