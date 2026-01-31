@@ -106,7 +106,7 @@ Check out my work and inspirations on CodePen:
 <div align="center">
 
 [🔗 See my CSS Art on CodePen](https://codepen.io/DanielTRZ)  
-(https://codepen.io/DanielTRZ)
+
 
 </div>
 
