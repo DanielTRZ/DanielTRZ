@@ -103,7 +103,7 @@ Whether it's crafting immersive levels in Unreal Engine, designing intelligent A
 I love creating graphics and mini projects using pure HTML and CSS.  
 Check out my work and inspirations on CodePen:
 
-[🔗 See my CSS Art on CodePen](https://codepen.io/DanielTRZ)
+<center>[🔗 See my CSS Art on CodePen](https://codepen.io/DanielTRZ)</center>
 
 ---
 <p align="center">
