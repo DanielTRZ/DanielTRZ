@@ -104,10 +104,10 @@ I love creating graphics and mini projects using pure HTML and CSS.
 Check out my work and inspirations on CodePen:
 
 <div align="center">
-<span style="font-size:20px;">
+<h3>
 [🔗 See my CSS Art on CodePen](https://codepen.io/DanielTRZ)  
-
-</span>  
+</h3> 
+  
 </div>
 
 
