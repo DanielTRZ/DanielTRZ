@@ -108,7 +108,7 @@ Check out my work and inspirations on CodePen:
 <a href="https://codepen.io/DanielTRZ" target="_blank"></a>
 
 </div>
-
+<br>
 
 
 
