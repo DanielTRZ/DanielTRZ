@@ -304,7 +304,6 @@ Explore our GitHub org:<br/>
 ---
 
 ## 🏆 GitHub Trophy Board
-<p algin="center">![Top Repo](https://moje-staty.vercel.app/api/pin/?username=DanielTRZ&repo=github-readme-stats&theme=radical)</p>
 
 <p align="center">
   <img src="https://moje-staty.vercel.app/api/pin/?username=DanielTRZ&repo=github-readme-stats&theme=radical" />
@@ -316,10 +315,11 @@ Explore our GitHub org:<br/>
 ## 📊 GitHub Stats
 
 
-![Statystyki Daniela](https://moje-staty.vercel.app/api?username=DanielTRZ&show_icons=true&theme=radical&custom_title=Stats+DanielTRZ)
-
-![Języki Daniela](https://moje-staty.vercel.app/api/top-langs/?username=DanielTRZ&layout=compact&theme=radical)
-
+<div align="center">
+  <img src="https://moje-staty.vercel.app/api?username=DanielTRZ&show_icons=true&theme=radical&custom_title=Stats+DanielTRZ" />
+  <br/>
+  <img src="https://moje-staty.vercel.app/api/top-langs/?username=DanielTRZ&layout=compact&theme=radical" />
+</div>
 
 
 ---
