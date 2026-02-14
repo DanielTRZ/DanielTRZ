@@ -185,6 +185,19 @@ You can find regular updates and visual insights into the development process on
       <br />Linux
     </td>
   </tr>
+      <td align="center">
+      <a href="https://isocpp.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" />
+      </a>
+      <br />C
+    </td>
+
+    <td align="center">
+      <a href="https://isocpp.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" />
+      </a>
+      <br />C++
+    </td>
   <tr>
     <td align="center">
       <a href="https://www.php.net" target="_blank">
@@ -228,78 +241,7 @@ You can find regular updates and visual insights into the development process on
 ...
 <p align="center">
 <table align="center">
-
-  <!-- ================= CURRENTLY LEARNING ================= -->
-  <tr>
-    <td colspan="4" align="center">
-      <h3>🚀 Currently Learning</h3>
-    </td>
-  </tr>
-
-  <tr>
- 
-
-
-    <td align="center">
-      <a href="https://isocpp.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" />
-      </a>
-      <br />C
-    </td>
-
-    <td align="center">
-      <a href="https://isocpp.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" />
-      </a>
-      <br />C++
-    </td>
-  </tr>
-
-
-
-
-
-
-    <td></td>
-
-
-    <td align="center">
-      <a href="https://www.linux.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" />
-      </a>
-      <br />Linux
-    </td>
-  </tr>
-
-  <tr>
-
-
-    <td align="center">
-      <a href="https://www.unrealengine.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original-wordmark.svg" width="48" height="48" />
-      </a>
-      <br />Unreal Engine
-    </td>
-
-    <td align="center">
-      <a href="https://www.unity.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original-wordmark.svg" width="48" height="48" />
-      </a>
-      <br />Unity
-    </td>
-
-    <td align="center">
-      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" />
-      </a>
-      <br />C#
-    </td>
-  </tr>
-
-</table>
-</p>
-
-          
+        
 ---
 ## ☕ buycoffee.to
 Was code from one of the repos helpful?<br>
