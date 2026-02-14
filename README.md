@@ -311,7 +311,7 @@ Explore our GitHub org:<br/>
 ## 📊 GitHub Stats
 
 
-![Statystyki Daniela](https://moje-staty.vercel.app/api?username=DanielTRZ&show_icons=true&theme=radical)
+![Statystyki Daniela](https://moje-staty.vercel.app/api?username=DanielTRZ&show_icons=true&theme=radical&custom_title=Stats+DanielTRZ)
 
 ![Języki Daniela](https://moje-staty.vercel.app/api/top-langs/?username=DanielTRZ&layout=compact&theme=radical)
 
