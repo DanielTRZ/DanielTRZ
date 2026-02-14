@@ -213,7 +213,141 @@ You can find regular updates and visual insights into the development process on
   </tr>
 </table>
 </p>
+...
+<p align="center">
+<table align="center">
 
+  <!-- ================= CURRENTLY LEARNING ================= -->
+  <tr>
+    <td colspan="4" align="center">
+      <h3>🚀 Currently Learning</h3>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://www.java.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" />
+      </a>
+      <br />Java
+    </td>
+
+    <td align="center">
+      <a href="https://www.python.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" />
+      </a>
+      <br />Python
+    </td>
+
+    <td align="center">
+      <a href="https://isocpp.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" />
+      </a>
+      <br />C
+    </td>
+
+    <td align="center">
+      <a href="https://isocpp.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" />
+      </a>
+      <br />C++
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" />
+      </a>
+      <br />C#
+    </td>
+
+    <td align="center">
+      <a href="https://www.unrealengine.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" width="48" height="48" />
+      </a>
+      <br />Unreal Blueprints
+    </td>
+
+    <td align="center">
+      <a href="https://www.ruby-lang.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="48" height="48" />
+      </a>
+      <br />Ruby
+    </td>
+
+    <td></td>
+  </tr>
+
+  <!-- ================= TECH STACK ================= -->
+  <tr>
+    <td colspan="4" align="center">
+      <h3>💻 Tech Stack</h3>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" />
+      </a>
+      <br />CSS3
+    </td>
+
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" />
+      </a>
+      <br />HTML5
+    </td>
+
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" />
+      </a>
+      <br />JavaScript
+    </td>
+
+    <td align="center">
+      <a href="https://www.linux.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" />
+      </a>
+      <br />Linux
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://www.php.net" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" />
+      </a>
+      <br />PHP
+    </td>
+
+    <td align="center">
+      <a href="https://www.unrealengine.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original-wordmark.svg" width="48" height="48" />
+      </a>
+      <br />Unreal Engine
+    </td>
+
+    <td align="center">
+      <a href="https://www.unity.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original-wordmark.svg" width="48" height="48" />
+      </a>
+      <br />Unity
+    </td>
+
+    <td align="center">
+      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" />
+      </a>
+      <br />C#
+    </td>
+  </tr>
+
+</table>
+</p>
 
           
 ---
