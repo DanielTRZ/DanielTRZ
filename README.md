@@ -304,7 +304,7 @@ Explore our GitHub org:<br/>
 ---
 
 ## 🏆 GitHub Trophy Board
-![Top Repo](https://moje-staty.vercel.app/api/pin/?username=DanielTRZ&repo=github-readme-stats&theme=radical)
+<p algin="center">![Top Repo](https://moje-staty.vercel.app/api/pin/?username=DanielTRZ&repo=github-readme-stats&theme=radical)</p>
 
 
 
