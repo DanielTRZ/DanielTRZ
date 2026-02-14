@@ -304,7 +304,8 @@ Explore our GitHub org:<br/>
 ---
 
 ## 🏆 GitHub Trophy Board
-![GitHub Streak](https://moje-staty.vercel.app/api/streak-stats/?username=DanielTRZ&theme=radical)
+![Top Repo](https://moje-staty.vercel.app/api/pin/?username=DanielTRZ&repo=github-readme-stats&theme=radical)
+
 
 
 ---
