@@ -216,6 +216,12 @@ You can find regular updates and visual insights into the development process on
       </a>
       <br />Java
     </td>
+        <td align="center">
+      <a href="https://www.ruby-lang.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="48" height="48" />
+      </a>
+      <br />Ruby
+    </td>
   </tr>
 </table>
 </p>
@@ -233,12 +239,6 @@ You can find regular updates and visual insights into the development process on
   <tr>
  
 
-    <td align="center">
-      <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" />
-      </a>
-      <br />Python
-    </td>
 
     <td align="center">
       <a href="https://isocpp.org/" target="_blank">
@@ -257,38 +257,11 @@ You can find regular updates and visual insights into the development process on
 
 
 
-    <td align="center">
-      <a href="https://www.unrealengine.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" width="48" height="48" />
-      </a>
-      <br />Unreal Blueprints
-    </td>
 
-    <td align="center">
-      <a href="https://www.ruby-lang.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="48" height="48" />
-      </a>
-      <br />Ruby
-    </td>
+
 
     <td></td>
-  </tr>
 
-  
-
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" />
-      </a>
-      <br />HTML5
-    </td>
-
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" />
-      </a>
-      <br />JavaScript
-    </td>
 
     <td align="center">
       <a href="https://www.linux.org/" target="_blank">
