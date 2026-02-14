@@ -314,7 +314,7 @@ Explore our GitHub org:<br/>
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://moje-staty.vercel.app/api?username=DanielTRZ&show_icons=true&theme=radical&custom_title=Stats+DanielTRZ&card_width=600" />
+  <img src="https://moje-staty.vercel.app/api?username=DanielTRZ&show_icons=true&theme=radical&custom_title=Stats+DanielTRZ&card_width=600&disable_animations=false"/>
   <br/>
   <img src="https://moje-staty.vercel.app/api/top-langs/?username=DanielTRZ&layout=compact&theme=radical&langs_count=12&card_width=600" />
 </div>
