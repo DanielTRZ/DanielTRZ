@@ -304,9 +304,8 @@ Explore our GitHub org:<br/>
 ---
 
 ## 🏆 GitHub Trophy Board
+[![trophies](https://github-profile-trophy.vercel.app/?username=DanielTRZ&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DanielTRZ&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ## 📊 GitHub Stats
