@@ -184,20 +184,21 @@ You can find regular updates and visual insights into the development process on
       </a>
       <br />Linux
     </td>
-  </tr>
-      <td align="center">
+
+ <td align="center">
       <a href="https://isocpp.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" />
       </a>
       <br />C
     </td>
 
-    <td align="center">
+  <td align="center">
       <a href="https://isocpp.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" />
       </a>
       <br />C++
-    </td>
+    </td> 
+    </tr>
   <tr>
     <td align="center">
       <a href="https://www.php.net" target="_blank">
