@@ -318,9 +318,10 @@ Explore our GitHub org:<br/>
   <br/>
   <img src="https://moje-staty.vercel.app/api/top-langs/?username=DanielTRZ&layout=compact&theme=radical&langs_count=12&card_width=600" />
 </div>
+<br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DanielTRZ&color=blueviolet&style=for-the-badge&label=ODWIEDZINY+PROFILU" alt="Licznik odwiedzin" />
+  <img src="https://komarev.com/ghpvc/?username=DanielTRZ&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Licznik odwiedzin" />
 </div>
 
 
