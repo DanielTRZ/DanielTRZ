@@ -210,6 +210,12 @@ You can find regular updates and visual insights into the development process on
       </a>
       <br />C#
     </td>
+       <td align="center">
+      <a href="https://www.java.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" />
+      </a>
+      <br />Java
+    </td>
   </tr>
 </table>
 </p>
@@ -225,12 +231,7 @@ You can find regular updates and visual insights into the development process on
   </tr>
 
   <tr>
-    <td align="center">
-      <a href="https://www.java.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" />
-      </a>
-      <br />Java
-    </td>
+ 
 
     <td align="center">
       <a href="https://www.python.org" target="_blank">
@@ -254,13 +255,7 @@ You can find regular updates and visual insights into the development process on
     </td>
   </tr>
 
-  <tr>
-    <td align="center">
-      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" />
-      </a>
-      <br />C#
-    </td>
+
 
     <td align="center">
       <a href="https://www.unrealengine.com" target="_blank">
@@ -279,20 +274,7 @@ You can find regular updates and visual insights into the development process on
     <td></td>
   </tr>
 
-  <!-- ================= TECH STACK ================= -->
-  <tr>
-    <td colspan="4" align="center">
-      <h3>💻 Tech Stack</h3>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" />
-      </a>
-      <br />CSS3
-    </td>
+  
 
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -317,12 +299,7 @@ You can find regular updates and visual insights into the development process on
   </tr>
 
   <tr>
-    <td align="center">
-      <a href="https://www.php.net" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" />
-      </a>
-      <br />PHP
-    </td>
+
 
     <td align="center">
       <a href="https://www.unrealengine.com" target="_blank">
