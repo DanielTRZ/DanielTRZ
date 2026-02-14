@@ -71,7 +71,7 @@ Whether it's crafting immersive levels in Unreal Engine, designing intelligent A
 🌐 JavaScript / HTML / CSS / PHP / SQL  
 
 **Currently learning:**  
-☕ Java / 🐍 Python / C / C++ / C# / Unreal Blueprints
+☕ Java / 🐍 Python / C / C++ / C# / Unreal Blueprints / Ruby
 
 **Other Skills:**  
 
