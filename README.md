@@ -321,8 +321,9 @@ Explore our GitHub org:<br/>
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DanielTRZ&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Licznik odwiedzin" />
+  <img src="https://komarev.com/ghpvc/?username=DanielTRZ&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Licznik odwiedzin" height="45" />
 </div>
+
 
 
 
