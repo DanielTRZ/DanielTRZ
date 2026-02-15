@@ -4,7 +4,6 @@
 
 
 ### 🌤️ Pogoda u Daniela:
-*(pobieranie danych pogodowych...)*
 <img src="https://moje-staty.vercel.app/api/weather" alt="Pogoda u Daniela" />
 
 
