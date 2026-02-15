@@ -3,9 +3,6 @@
 -->
 
 
-### 🌤️ Pogoda u Daniela:
-![Weather](https://twoja-nazwa.vercel.app/api/weather)
-
 
 <!-- Odznaka aktywności w Polsce -->
 <p align="center">
