@@ -1,6 +1,10 @@
 <!--
 **DanielTRZ/DanielTRZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+### 🌤️ Pogoda u Daniela:
+*(pobieranie danych pogodowych...)*
+
 <!-- Odznaka aktywności w Polsce -->
 <p align="center">
   <strong>🏆 Top Committers in Poland</strong><br><br>
