@@ -4,7 +4,7 @@
 
 
 ### 🌤️ Pogoda u Daniela:
-<img src="https://moje-staty.vercel.app/api/weather" alt="Pogoda u Daniela" />
+![Weather](https://twoja-nazwa.vercel.app/api/weather)
 
 
 <!-- Odznaka aktywności w Polsce -->
