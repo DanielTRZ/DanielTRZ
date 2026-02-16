@@ -344,6 +344,7 @@ Explore our GitHub org:<br/>
   </a>
 </p>
 <br><br>
+<div align="center">
 <p align="center">
 
 🌐 [danieltrzecinski.pl](https://danieltrzecinski.pl)  
@@ -353,5 +354,6 @@ Explore our GitHub org:<br/>
   <img src="https://img.shields.io/badge/PixelPioneersClub-GameDev-blue?style=for-the-badge&logo=github" alt="PixelPioneersClub GitHub" /></p>
 </a>
 <br><br>
+</div>
 
 
