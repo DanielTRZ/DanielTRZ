@@ -29,9 +29,6 @@
 <p align="center">
   <em>We are united by passion – passion for IT.</em>
 </p>
-<p align="center">
-  <img src="https://github.com/DanielTRZ/Photos-/blob/main/DanielCS50.PNG?raw=true" alt="passion" width="40%" height="80%" />
-</p>
 
 ---
 🎮 ** Hi, I'm Daniel - a new technology enthusiast driven by curiosity and imagination..**
@@ -45,6 +42,10 @@ Whether it's crafting immersive levels in Unreal Engine, designing intelligent A
 🧠 I'm passionate about combining art, logic, and interaction into compelling gameplay.
 
 > _“The best technology feels like magic – and games are the modern spellbook.”_
+> 
+<p align="center">
+  <img src="https://github.com/DanielTRZ/Photos-/blob/main/DanielCS50.PNG?raw=true" alt="passion" width="40%" height="80%" />
+</p>
 
 ---
 
