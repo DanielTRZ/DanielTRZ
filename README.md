@@ -29,7 +29,9 @@
 <p align="center">
   <em>We are united by passion – passion for IT.</em>
 </p>
-
+<p align="center">
+  <img src="https://github.com/DanielTRZ/Photos-/blob/main/DanielCS50.PNG?raw=true" alt="passion" width="80%" />
+</p>
 
 ---
 🎮 ** Hi, I'm Daniel - a new technology enthusiast driven by curiosity and imagination..**
