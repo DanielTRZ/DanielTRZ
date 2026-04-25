@@ -30,7 +30,7 @@
   <em>We are united by passion – passion for IT.</em>
 </p>
 <p align="center">
-  <img src="https://github.com/DanielTRZ/Photos-/blob/main/DanielCS50.PNG?raw=true" alt="passion" width="80%" height="60" />
+  <img src="https://github.com/DanielTRZ/Photos-/blob/main/DanielCS50.PNG?raw=true" alt="passion" width="20px" height="60px" />
 </p>
 
 ---
