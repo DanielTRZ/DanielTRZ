@@ -116,7 +116,7 @@ Check out my work and inspirations on CodePen:
 </div>
 <br>
 <p align="center">
-  <img src="https://github.com/DanielTRZ/Photos-/blob/main/C1D.PNG?raw=true" alt="passion" width="40%" height="80%" />
+  <img src="https://github.com/DanielTRZ/Photos-/blob/main/C1D.png?raw=true" alt="passion" width="50%" height="90%" />
 </p>
 
 
