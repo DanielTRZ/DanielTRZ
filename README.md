@@ -96,9 +96,6 @@ Whether it's crafting immersive levels in Unreal Engine, designing intelligent A
 
 <p align="center">
   <img src="https://github.com/DanielTRZ/Photos-/blob/main/31FB154B-C72F-474B-BD25-E9B9C3B750F1.png?raw=true" alt="passion" width="80%" />
-</p><p align="center">
-  <em>DanCom — programming • systems administration • game design • IT
-</em>
 </p>
 ---
 
@@ -120,6 +117,10 @@ Check out my work and inspirations on CodePen:
 <br>
 <p align="center">
   <img src="https://github.com/DanielTRZ/Photos-/blob/main/C1D.png?raw=true" alt="passion" width="50%" height="90%" />
+</p>
+<p align="center">
+  <em>DanCom — programming • systems administration • game design • IT
+</em>
 </p>
 
 
