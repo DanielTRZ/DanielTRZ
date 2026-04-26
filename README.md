@@ -96,6 +96,9 @@ Whether it's crafting immersive levels in Unreal Engine, designing intelligent A
 
 <p align="center">
   <img src="https://github.com/DanielTRZ/Photos-/blob/main/31FB154B-C72F-474B-BD25-E9B9C3B750F1.png?raw=true" alt="passion" width="80%" />
+</p><p align="center">
+  <em>DanCom — programming • systems administration • game design • IT
+</em>
 </p>
 ---
 
