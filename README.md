@@ -259,44 +259,29 @@ Was code from one of the repos helpful?<br>
 Coffee is always appreciated ☕<br>
 👉 Buy Me a Coffee:<br>
 
-<center>
-  <div style="max-width: 467px;">
-    
-    <h3 style="color: #ffffff; margin-bottom: 12px;">Postaw kawę za:</h3>
 
-    <!-- Tabela z kafelkami -->
-    <table style="border-collapse: collapse; border: none;">
-      <tr>
-        <!-- Mała kawa -->
-        <td bgcolor="#004725" align="center" valign="middle" width="120" style="border: none; padding: 16px; border-radius: 16px;">
-          <a href="https://buycoffee.to/pixelpioneersclub?coffeeSize=small" target="_blank" style="text-decoration: none;">
-            <img src="https://buycoffee.to/static/img/icons/coffee-small-dark.svg" width="40" height="40" alt="Mała kawa" /><br />
-            <span style="color: #ffffff; font-weight: bold; display: inline-block; margin-top: 8px;">6 zł</span>
-          </a>
-        </td>
-        <!-- Odstęp między kafelkami -->
-        <td width="8" style="border: none;"></td>
-        <!-- Średnia kawa -->
-        <td bgcolor="#004725" align="center" valign="middle" width="120" style="border: none; padding: 16px; border-radius: 16px;">
-          <a href="https://buycoffee.to/pixelpioneersclub?coffeeSize=medium" target="_blank" style="text-decoration: none;">
-            <img src="https://buycoffee.to/static/img/icons/coffee-medium-dark.svg" width="40" height="40" alt="Średnia kawa" /><br />
-            <span style="color: #ffffff; font-weight: bold; display: inline-block; margin-top: 8px;">8 zł</span>
-          </a>
-        </td>
-        <!-- Odstęp między kafelkami -->
-        <td width="8" style="border: none;"></td>
-        <!-- Duża kawa -->
-        <td bgcolor="#004725" align="center" valign="middle" width="120" style="border: none; padding: 16px; border-radius: 16px;">
-          <a href="https://buycoffee.to/pixelpioneersclub?coffeeSize=large" target="_blank" style="text-decoration: none;">
-            <img src="https://buycoffee.to/static/img/icons/coffee-large-dark.svg" width="40" height="40" alt="Duża kawa" /><br />
-            <span style="color: #ffffff; font-weight: bold; display: inline-block; margin-top: 8px;">15 zł</span>
-          </a>
-        </td>
-      </tr>
-    </table>
 
-  </div>
-</center>
+
+<p align="center">
+  <samp><b>Postaw kawę za:</b></samp>
+</p>
+
+<p align="center">
+  <a href="https://buycoffee.to/pixelpioneersclub?coffeeSize=small" target="_blank">
+    <img src="https://img.shields.io/badge/☕_Mała_Kawa-6_zł-004725?style=for-the-badge&logoColor=white" alt="6 zł" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://buycoffee.to/pixelpioneersclub?coffeeSize=medium" target="_blank">
+    <img src="https://img.shields.io/badge/☕_Średnia_Kawa-8_zł-004725?style=for-the-badge&logoColor=white" alt="8 zł" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://buycoffee.to/pixelpioneersclub?coffeeSize=large" target="_blank">
+    <img src="https://img.shields.io/badge/☕_Duża_Kawa-15_zł-004725?style=for-the-badge&logoColor=white" alt="15 zł" height="40" />
+  </a>
+</p>
+
+
+
 
 
 <br>
