@@ -261,36 +261,33 @@ Coffee is always appreciated ☕<br>
 
 
 
-
 <p align="center">
-  <samp><b>Postaw kawę za:</b></samp>
+  <samp><b>Buy me a coffee for:</b></samp>
 </p>
 
 <p align="center">
   <a href="https://buycoffee.to/pixelpioneersclub?coffeeSize=small" target="_blank">
-    <img src="https://img.shields.io/badge/☕_Mała_Kawa-6_zł-004725?style=for-the-badge&logoColor=white" alt="6 zł" height="40" />
+    <img src="https://img.shields.io/badge/☕_Small_Coffee-6_PLN-004725?style=for-the-badge&logoColor=white" alt="6 PLN" height="40" />
   </a>
   &nbsp;
   <a href="https://buycoffee.to/pixelpioneersclub?coffeeSize=medium" target="_blank">
-    <img src="https://img.shields.io/badge/☕_Średnia_Kawa-8_zł-004725?style=for-the-badge&logoColor=white" alt="8 zł" height="40" />
+    <img src="https://img.shields.io/badge/☕_Medium_Coffee-8_PLN-004725?style=for-the-badge&logoColor=white" alt="8 PLN" height="40" />
   </a>
   &nbsp;
   <a href="https://buycoffee.to/pixelpioneersclub?coffeeSize=large" target="_blank">
-    <img src="https://img.shields.io/badge/☕_Duża_Kawa-15_zł-004725?style=for-the-badge&logoColor=white" alt="15 zł" height="40" />
+    <img src="https://img.shields.io/badge/☕_Large_Coffee-15_PLN-004725?style=for-the-badge&logoColor=white" alt="15 PLN" height="40" />
   </a>
 </p>
-
-
-
 
 
 <br>
 
 <p align="center">
   <a href="https://buycoffee.to/pixelpioneersclub" target="_blank">
-    <img src="https://buycoffee.to/static/img/share/share-button-dark.png" width="194" height="63" alt="Postaw mi kawę na buycoffee.to">
+    <img src="https://buycoffee.to/static/img/share/share-button-dark.png" width="194" height="63" alt="Buy me a coffee at buycoffee.to">
   </a>
 </p>
+
 ---
 
 
